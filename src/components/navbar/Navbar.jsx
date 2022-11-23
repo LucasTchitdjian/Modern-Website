@@ -7,7 +7,7 @@ import "./navbar.css";
 const Menu = () => (
   <>
     <p>
-      <a href="#home">Home</a>
+      <a href="#home">Accueil</a>
     </p>
     <p>
       <a href="#wgpt3">What is gpt3</a>
